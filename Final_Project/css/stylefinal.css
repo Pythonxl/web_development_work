@@ -1,0 +1,184 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: lightcyan;
+}
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+/* header img {width: 200px;} */
+#logomone {
+  width: 200px;
+  padding: 0;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+#logom {
+  width: 250px;
+  padding: 0;
+  height: 150px;
+}
+.modern {
+  text-align: left;
+}
+
+nav ul {
+  display: flex;
+  padding: 0;
+  list-style: none;
+}
+nav ul li a {
+  border: 0;
+  padding: 10px;
+  background-color: lightblue;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+main {
+  margin: 10px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  color: black;
+}
+.gallery img:hover {
+  transform: scale(2);
+}
+#map1 {
+  width: 200px;
+}
+#map2 {
+  width: 200px;
+}
+
+#solar {
+  width: 200px;
+}
+
+#port {
+  width: 200px;
+}
+.climate {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#mozart {
+  width: 200px;
+}
+li {
+  color: blueviolet;
+}
+
+.fourtyplus {
+  background-color: red;
+}
+.ten {
+  background-color: lightpink;
+}
+.tentwenty {
+  background-color: lightcoral;
+}
+.twentythirty {
+  background-color: lightsalmon;
+}
+.tentofifty {
+  background-color: lightgoldenrodyellow;
+}
+.fiftytilltwohunred {
+  background-color: yellow;
+}
+.tillten {
+  background-color: blanchedalmond;
+}
+.sixhundred {
+  background-color: gold;
+}
+.thirtyfourty {
+  background-color: orangered;
+}
+.minuszero {
+  background-color: blueviolet;
+}
+.zero {
+  background-color: lavender;
+}
+.eightplus {
+  background-color: purple;
+}
+.twofive {
+  background-color: mediumpurple;
+}
+.onetwo {
+  background-color: violet;
+}
+table {
+  width: 100%;
+}
+.monthdayone {
+  background-color: darkolivegreen;
+}
+.monthdaytwo {
+  background-color: greenyellow;
+}
+.monthdaythree {
+  background-color: lightgreen;
+}
+.monthdayfour {
+  background-color: greenyellow;
+}
+
+.att {
+  display: flex;
+  gap: 20px;
+}
+.attone {
+  display: flex;
+  gap: 20px;
+}
+.atttwo {
+  display: flex;
+  gap: 20px;
+}
+.attthree {
+  display: flex;
+  gap: 20px;
+}
+.attfour {
+  display: flex;
+  gap: 20px;
+}
+
+#susanoglu {
+  width: 200px;
+  height: 200px;
+}
+#kale {
+  width: 200px;
+  height: 200px;
+}
+#marina {
+  width: 200px;
+  height: 200px;
+}
+#waterfall {
+  width: 200px;
+  height: 200px;
+}
+#heaven {
+  width: 200px;
+  height: 200px;
+}
